@@ -11,6 +11,7 @@ insurance-claims-analysis/
 ├── main.py
 ├── data/
 │   ├── raw/
+│   │   └── insurance_claims_data.csv
 │   └── preprocessed/
 ├── notebooks/
 │   └── 01_EDA.ipynb
@@ -23,7 +24,6 @@ insurance-claims-analysis/
 ├── requirements.txt
 ├── .gitignore
 └── README.md
-
 
 ---
 
