@@ -1,11 +1,11 @@
-# 🧠 Insurance Claims Analysis (PySpark Project)
+# Insurance Claims Analysis (PySpark Project)
 
 This project explores and models an **insurance claims dataset** using **PySpark** for distributed data processing and analysis.  
 The goal is to understand key patterns in vehicle insurance data and build a foundation for claim prediction.
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 insurance-claims-analysis/
 ├── main.py
@@ -27,7 +27,7 @@ insurance-claims-analysis/
 
 ---
 
-## 🔍 Current Progress
+## Current Progress
 
 ### Step 1: Environment Setup
 - Created virtual environment (`venv`)
@@ -47,7 +47,7 @@ insurance-claims-analysis/
 
 ---
 
-## 📊 Key Insights So Far
+## Key Insights So Far
 - Data quality: No missing values detected.
 - Target imbalance: Significant (only ~6% claims).
 - Several features require cleaning (e.g., `max_torque`, `max_power`).
