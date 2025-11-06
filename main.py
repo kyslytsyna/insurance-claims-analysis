@@ -1,4 +1,4 @@
-from src.data_preprocessing import load_and_clean_data
+from src.02_data_preprocessing import load_and_clean_data
 from src.feature_engineering import create_features
 from src.model_training import train_model
 
