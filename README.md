@@ -5,7 +5,25 @@ The goal is to understand key patterns in vehicle insurance data and build a fou
 
 ---
 
-<pre> ## Project Structure ```text insurance-claims-analysis/ ├── main.py ├── data/ │ ├── raw/ │ │ └── insurance_claims_data.csv │ └── preprocessed/ ├── notebooks/ │ └── 01_EDA.ipynb ├── src/ │ ├── __init__.py │ ├── data_preprocessing.py │ ├── feature_engineering.py │ ├── model_training.py │ └── utils.py ├── requirements.txt ├── .gitignore └── README.md ``` </pre>
+```text
+insurance-claims-analysis/
+├── main.py
+├── data/
+│   ├── raw/
+│   │   └── insurance_claims_data.csv
+│   └── preprocessed/
+├── notebooks/
+│   └── 01_EDA.ipynb
+├── src/
+│   ├── __init__.py
+│   ├── data_preprocessing.py
+│   ├── feature_engineering.py
+│   ├── model_training.py
+│   └── utils.py
+├── requirements.txt
+├── .gitignore
+└── README.md
+```
 
 ---
 
