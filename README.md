@@ -12,6 +12,9 @@ insurance-claims-analysis/
 │   ├── raw/
 │   │   └── insurance_claims_data.csv
 │   └── preprocessed/
+│   │   └── insurance_claims_clean.parquet
+│   └── processed/
+│   │   └── insurance_claims_features.parquet
 ├── notebooks/
 │   └── 01_EDA.ipynb
 ├── src/
